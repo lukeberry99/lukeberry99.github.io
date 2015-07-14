@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Luke Berry
-tagline:             'words and occasionaly sense is made'
-description:         'lots of words, very little sense'
+tagline:             ''
+description:         'something, something, something'
 url:                 http://luke-berry.co.uk
 baseurl:             ''
 paginate:            5

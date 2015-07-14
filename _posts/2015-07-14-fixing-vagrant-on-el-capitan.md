@@ -3,7 +3,7 @@ layout: post
 title: Fixing Vagrant on OSX 10.11 'El Capitan'
 ---
 
-If you've updated to the latest release of OSX you might've noticed that Vagrant no longe wroks - even after a fresh install.
+If you've updated to the latest release of OSX you might've noticed that Vagrant no longer works - even after a fresh install.
 
 This is because _el capitan_ prevents anyone, including root, from writing to `/usr/bin` which is where Vagrant expects to be able to write it's executable.
 

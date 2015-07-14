@@ -9,7 +9,7 @@ title:               Luke Berry
 tagline:             ''
 description:         'something, something, something'
 url:                 http://luke-berry.co.uk
-baseurl:             'luke-berry.co.uk'
+baseurl:             'http://luke-berry.co.uk'
 paginate:            5
 
 # About/contact

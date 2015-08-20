@@ -14,6 +14,6 @@ One of the requirements on an iOS app I've been working on recently is the need 
 
 After some debugging I realised that the issue arose when attempting to use both ObjectiveC pods (such as `GoogleMapsSDK`) and Swift libraries such as `Alamofire`. 
 
-A really simple solution is to add `-ObjC` to your linkers in XCode which will it to compile the ObjectiveC pods.
+A really simple solution is to add `-ObjC` to your linkers in XCode which will tell it to compile the ObjectiveC pods.
 
 After adding the linker everything compiles and I'm able to use the two pods in unison. 
